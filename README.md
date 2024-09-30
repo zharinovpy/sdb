@@ -40,7 +40,10 @@
 Провел сканирование nmap Metasploitable в режимах SYN, FIN, Xmas, UDP
 
 Записи сеансов сканирования в Wireshark
-- [nmap-SYN.pcapng]
+- [nmap-SYN.pcapng](https://github.com/zharinovpy/sdb/blob/main/nmap-SYN.pcapng)
+- [nmap-FIN.pcapng](https://github.com/zharinovpy/sdb/blob/main/nmap-FIN.pcapng)
+- [nmap-XMAS.pcapng](https://github.com/zharinovpy/sdb/blob/main/nmap-XMAS.pcapng)
+- [nmap-UDP.pcapng](https://github.com/zharinovpy/sdb/blob/main/nmap-UDP.pcapng)
 
 Ответьте на следующие вопросы:
 
