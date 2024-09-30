@@ -40,7 +40,7 @@
 Провел сканирование nmap Metasploitable в режимах SYN, FIN, Xmas, UDP
 
 Записи сеансов сканирования в Wireshark
-scan/nmap-SYN.pcapng
+- [nmap-SYN.pcapng](nmap-SYN.pcapng)
 (scan/nmap-FIN.pcapng)
 
 - С точки зрения сетевого трафика эти режимы отличаются типами используемых протоколов передачи и применяемыми флагами в заголовках. 
